@@ -1,4 +1,4 @@
-# ⚡ GigShield — Phase 3
+# ⚡ GigShield 
 ### Parametric Income Protection for Grocery Delivery Workers
 **Zepto / Blinkit | DEVTrails 2026**
 
