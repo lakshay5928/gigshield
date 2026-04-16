@@ -206,12 +206,12 @@ With API key: Live OpenWeatherMap data with ward-level approximation.
 | Worker Dashboard — earnings protected | ✅ |
 | Admin Dashboard — loss ratios | ✅ |
 | Predictive analytics — next week risk | ✅ |
-| **AI/ML — GBR Premium Model** | ✅ NEW |
-| **AI/ML — Isolation Forest Fraud** | ✅ NEW |
-| **Real Weather API (OpenWeatherMap)** | ✅ NEW |
-| **Auto weather-triggered alerts** | ✅ NEW |
-| **ML API (Flask)** | ✅ NEW |
+| **AI/ML — GBR Premium Model** | ✅ |
+| **AI/ML — Isolation Forest Fraud** | ✅ |
+| **Real Weather API (OpenWeatherMap)** | ✅ |
+| **Auto weather-triggered alerts** | ✅ |
+| **ML API (Flask)** | ✅ |
 
 ---
 
-*Built for DEVTrails 2026 — Guidewire University Hackathon | Phase 3*
+*Built for DEVTrails 2026 — Guidewire University Hackathon *
