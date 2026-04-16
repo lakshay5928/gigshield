@@ -1,0 +1,34 @@
+{
+  "model_type": "GradientBoostingRegressor",
+  "n_estimators": 200,
+  "features": [
+    "city_enc",
+    "month",
+    "seasonal_factor",
+    "trust_week",
+    "declared_hourly_rate",
+    "claims_last_month",
+    "years_on_platform",
+    "flood_risk_score",
+    "heat_risk_score",
+    "ward_disruption_freq",
+    "city_median_hourly",
+    "city_base_premium"
+  ],
+  "mae": 2.03,
+  "r2": 0.9853,
+  "cv_r2_mean": 0.9851,
+  "cv_r2_std": 0.0004,
+  "training_samples": 5000,
+  "cities": [
+    "bangalore",
+    "chennai",
+    "delhi",
+    "mumbai",
+    "pune"
+  ],
+  "premium_range": {
+    "min": 60,
+    "max": 120
+  }
+}

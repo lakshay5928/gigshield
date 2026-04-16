@@ -1,0 +1,16 @@
+{
+  "model_type": "IsolationForest",
+  "n_estimators": 150,
+  "contamination": 0.08,
+  "features": [
+    "gps_accuracy",
+    "claim_velocity_7d",
+    "ward_claims_5min",
+    "hour_of_claim",
+    "days_since_register",
+    "payout_amount"
+  ],
+  "fraud_detection_rate": 0.845,
+  "false_positive_rate": 0.004,
+  "training_samples": 2200
+}

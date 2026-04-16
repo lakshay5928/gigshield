@@ -1,4 +1,4 @@
 module.exports = (err, req, res, next) => {
-  console.error(`[ERROR] ${req.method} ${req.path}:`, err.message);
-  res.status(err.status || 500).json({ error: err.message || 'Internal server error' });
+  console.error(`[ERR] ${req.method} ${req.path}:`, err.message);
+  res.status(err.status || 500).json({ error: err.message || 'Server error' });
 };
