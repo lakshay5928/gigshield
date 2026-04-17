@@ -34,8 +34,10 @@ Follow the steps below to run the full system (Frontend + Backend + ML API):
 - Supabase free account
 
 ### Step 1 — Clone the repository
-git clone <repo-link>
+```bash
+git clone https://github.com/your-username/gigshield.git
 cd gigshield
+```
 
 ### Step 2 — Database
 
