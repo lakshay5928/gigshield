@@ -1,8 +1,8 @@
 # ⚡ GigShield 
 
 ## 📊 Pitch Deck
-https://drive.google.com/file/d/1I17MUwhtilm1FYbnUlGaa8BbNObw-Y4y/view?usp=sharing
-https://docs.google.com/presentation/d/1X5p5LfnEH9mCrkKhAhYbEuan5fFrSZAD/edit?usp=sharing&ouid=118282783104103460276&rtpof=true&sd=true
+https://drive.google.com/file/d/1bpiUKMpdRNhRihgV4YrEZCXS8tnokl3F/view?usp=sharing
+https://docs.google.com/presentation/d/1kVpEXL2VofZq309ncUAGyVb-WQWDwglb/edit?usp=sharing&ouid=118282783104103460276&rtpof=true&sd=true
 
 ## 🎥 Demo Video
 https://drive.google.com/file/d/1BY5WC3JDFLUAao_Am148j3l10ODn3W8u/view?usp=sharing
