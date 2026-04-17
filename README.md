@@ -4,7 +4,7 @@
 https://your-drive-link
 
 ## 🎥 Demo Video
-https://your-video-link
+https://drive.google.com/file/d/1BY5WC3JDFLUAao_Am148j3l10ODn3W8u/view?usp=sharing
 
 ### Parametric Income Protection for Grocery Delivery Workers
 **Zepto / Blinkit | DEVTrails 2026**
