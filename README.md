@@ -1,4 +1,11 @@
 # ⚡ GigShield 
+
+## 📊 Pitch Deck
+https://your-drive-link
+
+## 🎥 Demo Video
+https://your-video-link
+
 ### Parametric Income Protection for Grocery Delivery Workers
 **Zepto / Blinkit | DEVTrails 2026**
 
@@ -19,19 +26,24 @@
 ---
 
 ## 🚀 Run Locally
+Follow the steps below to run the full system (Frontend + Backend + ML API):
 
 ### Prerequisites
 - Node.js v18+
 - Python 3.9+
 - Supabase free account
 
-### Step 1 — Database
+### Step 1 — Clone the repository
+git clone <repo-link>
+cd gigshield
+
+### Step 2 — Database
 
 1. [supabase.com](https://supabase.com) → New Project
 2. SQL Editor → paste `backend/db/schema.sql` → Run
 3. Settings → Database → copy URI connection string
 
-### Step 2 — Backend
+### Step 3 — Backend
 
 ```bash
 cd backend
@@ -43,7 +55,7 @@ npm run dev
 # ✅ http://localhost:5000/health
 ```
 
-### Step 3 — Python ML API (NEW)
+### Step 4 — Python ML API (NEW)
 
 ```bash
 cd ml
@@ -60,7 +72,7 @@ python ml_api.py
 # ✅ ML API at http://localhost:5001/health
 ```
 
-### Step 4 — Frontend
+### Step 5 — Frontend
 
 ```bash
 cd frontend
@@ -69,7 +81,7 @@ npm start
 # ✅ http://localhost:3000
 ```
 
-### Step 5 — OpenWeatherMap (Optional but Recommended)
+### Step 6 — OpenWeatherMap (Optional but Recommended)
 
 1. Go to [openweathermap.org](https://openweathermap.org/api)
 2. Sign up free → My API Keys → copy key
@@ -100,7 +112,7 @@ localhost:3000/admin/fraud       → 5-signal Isolation Forest center
 localhost:3000/admin/analytics   → Predictive risk + loss ratio
 ```
 
-### Full 5-Min Demo Script
+### Overall Flow
 ```
 1. Register: Ravi Kumar, 9876543210, Mumbai, MUM-W14, Zepto, ₹65/hr
 2. Show premium quote — ML model output with R² score
@@ -193,7 +205,7 @@ With API key: Live OpenWeatherMap data with ward-level approximation.
 
 ---
 
-## ✅ Phase 3 Complete Checklist
+## ✅ Complete Checklist
 
 | Requirement | Status |
 |---|---|
